@@ -1,4 +1,4 @@
-🎓 Student Management System
+### 🎓 Student Management System
 
 A full-featured web-based Student Management System built using PHP and MySQL — includes login authentication, grading system (college-style), quiz handling, and student result viewing.
 
